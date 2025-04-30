@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KDecoration2/Plugin
+
+Name=GruvboxAuroraePlasma6
+Comment=Window decoration for Plasma 6 inspired by macOS button indicators
+
+# Original author + your update
+X-KDE-PluginInfo-Author=adhe (original); Brad Cook (Plasma 6 port)
+X-KDE-PluginInfo-Email=adhemarks@gmail.com; bcook1281@gmail.com
+X-KDE-PluginInfo-Website=https://github.com/bcook128/gruvboxAurorae
+
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=GruvboxAuroraePlasma6
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-MinimalVersion=6.0
+X-KDE-PluginInfo-Dependencies=kwin6_aurorae
+X-KDE-PluginInfo-Category=Aurorae theme
+X-KDE-PluginInfo-EnabledByDefault=true
